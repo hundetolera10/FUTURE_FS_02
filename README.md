@@ -138,8 +138,8 @@ REACT_APP_API_URL=http://127.0.0.1:8000/api
 
 **Hunde Tolera**
 
-* GitHub: [https://github.com/your-username](https://github.com/hundetolera10)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/hunde-tolera-a439aa362)
+* GitHub: (https://github.com/hundetolera10)
+* LinkedIn: (https://linkedin.com/in/hunde-tolera-a439aa362)
 
 ---
 
@@ -147,7 +147,7 @@ REACT_APP_API_URL=http://127.0.0.1:8000/api
 
 Give it a star ⭐ and feel free to contribute!
 
-````
+
 
 
 
