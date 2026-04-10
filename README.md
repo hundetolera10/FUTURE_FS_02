@@ -83,51 +83,6 @@ crm_project/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/crm-project.git
-````
-
-### 2. Backend setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-```
-
-### 3. Frontend setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
----
-
-## 🔐 Environment Variables
-
-### Backend `.env`
-
-```
-DB_NAME=your_db
-DB_USER=root
-DB_PASSWORD=your_password
-DB_HOST=localhost
-SECRET_KEY=your_secret_key
-```
-
-### Frontend `.env`
-
-```
-REACT_APP_API_URL=http://127.0.0.1:8000/api
-```
-
----
 
 ## 📈 Future Improvements
 
