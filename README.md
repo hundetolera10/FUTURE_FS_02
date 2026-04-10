@@ -1,6 +1,6 @@
 # 🚀 CRM Dashboard (Full Stack Web App)
 
-A modern **Client Lead Management system** built with **React, Django, and MySQL**, featuring real-time updates, analytics dashboard, and a responsive SaaS-style UI.
+A mini **Client Lead Management system** built with **React, Django, and MySQL**, featuring real-time updates, analytics dashboard, and a responsive SaaS-style UI.
 
 ---
 
