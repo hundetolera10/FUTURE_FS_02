@@ -1,4 +1,3 @@
-
 # 🚀 CRM Dashboard (Full Stack Web App)
 
 A modern **Customer Relationship Management (CRM) system** built with **React, Django, and MySQL**, featuring real-time updates, analytics dashboard, and a responsive SaaS-style UI.
@@ -7,7 +6,12 @@ A modern **Customer Relationship Management (CRM) system** built with **React, D
 
 ## 📸 Preview
 
-> Add screenshots here (dashboard, leads page, chart)
+<img width="1892" height="896" alt="Screenshot 2026-04-10 161459" src="https://github.com/user-attachments/assets/3cc3411c-7a8e-441b-8304-5dfe79b61131" />
+
+<img width="1886" height="896" alt="Screenshot 2026-04-10 161549" src="https://github.com/user-attachments/assets/4ea2b865-0664-4c35-a047-699b758d17d4" />
+
+<img width="1890" height="893" alt="Screenshot 2026-04-10 161531" src="https://github.com/user-attachments/assets/6ee47bc1-3ae7-438f-bd77-500a05a52c26" />
+
 
 ---
 
